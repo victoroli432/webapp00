@@ -14,3 +14,5 @@ st.subheader("se leu mamou...")
 
 # Use st.write("") para adicionar um texto ao seu Web app
 st.write("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
+
+# Use st.write(" essa aqui foi de fude")
