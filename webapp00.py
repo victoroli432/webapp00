@@ -3,8 +3,8 @@
 #import the library
 import streamlit as st 
 # Use st.title("") para adicionar um TÍTULO ao seu Web app
-st.title("AUTOCUST")
-st.header("Custo do seu carro")
+st.title("                    AUTOCUST")
+st.header("            Custo do seu carro")
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
